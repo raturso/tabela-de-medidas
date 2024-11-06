@@ -1,0 +1,83 @@
+<h1>TABELA DE MEDIDAS - JARDINEIRA SHORT</h1>
+
+<h2>Parte Superior</h2>
+<table border="1" width="600" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="border: 2px solid black; padding: 10px;">TAMANHOS</th>
+      <th style="border: 2px solid black; padding: 10px;">BUSTO</th>
+      <th style="border: 2px solid black; padding: 10px;">CINTURA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">PP</td>
+      <td style="border: 2px solid black; padding: 10px;">84-88 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">66-70 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">P</td>
+      <td style="border: 2px solid black; padding: 10px;">89-92 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">70-74 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">M</td>
+      <td style="border: 2px solid black; padding: 10px;">93-96 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">74-78 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">G</td>
+      <td style="border: 2px solid black; padding: 10px;">97-100 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">78-82 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">GG</td>
+      <td style="border: 2px solid black; padding: 10px;">101-105 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">82-86 cm</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Parte Inferior </h2>
+<table border="1" width="600" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="border: 2px solid black; padding: 10px;">TAMANHOS</th>
+      <th style="border: 2px solid black; padding: 10px;">QUADRIL</th>
+      <th style="border: 2px solid black; padding: 10px;">COXA</th>
+      <th style="border: 2px solid black; padding: 10px;">COMPRIMENTO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">PP</td>
+      <td style="border: 2px solid black; padding: 10px;">94-98 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">56-60 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">50 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">P</td>
+      <td style="border: 2px solid black; padding: 10px;">98-102 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">60-64 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">51 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">M</td>
+      <td style="border: 2px solid black; padding: 10px;">102-106 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">64-68 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">52 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">G</td>
+      <td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">68-72 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">53 cm</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black; padding: 10px;">GG</td>
+      <td style="border: 2px solid black; padding: 10px;">110-114 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">72-76 cm</td>
+      <td style="border: 2px solid black; padding: 10px;">54 cm</td>
+    </tr>
+  </tbody>
+</table>
