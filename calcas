@@ -1,0 +1,48 @@
+<h1>TABELA DE MEDIDAS</h1>
+<p>&nbsp;</p>
+<table border="1" width="100%">
+<tbody>
+<tr>
+<th style="border: 2px solid black; padding: 10px;">TAMANHOS</th>
+<th style="border: 2px solid black; padding: 10px;">CINTURA</th>
+<th style="border: 2px solid black; padding: 10px;">QUADRIL</th>
+<th style="border: 2px solid black; padding: 10px;">COXA</th>
+</tr>
+<tr>
+<td style="border: 2px solid black; padding: 10px;">36</td>
+<td style="border: 2px solid black; padding: 10px;">62-66 cm</td>
+<td style="border: 2px solid black; padding: 10px;">90-94 cm</td>
+<td style="border: 2px solid black; padding: 10px;">44-48 cm</td>
+</tr>
+<tr>
+<td style="border: 2px solid black; padding: 10px;">38</td>
+<td style="border: 2px solid black; padding: 10px;">66-70 cm</td>
+<td style="border: 2px solid black; padding: 10px;">94-98 cm</td>
+<td style="border: 2px solid black; padding: 10px;">48-52 cm</td>
+</tr>
+<tr>
+<td style="border: 2px solid black; padding: 10px;">40</td>
+<td style="border: 2px solid black; padding: 10px;">70-74 cm</td>
+<td style="border: 2px solid black; padding: 10px;">98-102 cm</td>
+<td style="border: 2px solid black; padding: 10px;">52-56 cm</td>
+</tr>
+<tr>
+<td style="border: 2px solid black; padding: 10px;">42</td>
+<td style="border: 2px solid black; padding: 10px;">74-78 cm</td>
+<td style="border: 2px solid black; padding: 10px;">102-106 cm</td>
+<td style="border: 2px solid black; padding: 10px;">56-60 cm</td>
+</tr>
+<tr>
+<td style="border: 2px solid black; padding: 10px;">44</td>
+<td style="border: 2px solid black; padding: 10px;">78-82 cm</td>
+<td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
+<td style="border: 2px solid black; padding: 10px;">60-64 cm</td>
+</tr>
+<tr>
+<td style="border: 2px solid black; padding: 10px;">46</td>
+<td style="border: 2px solid black; padding: 10px;">82-86 cm</td>
+<td style="border: 2px solid black; padding: 10px;">110-114 cm</td>
+<td style="border: 2px solid black; padding: 10px;">64-68 cm</td>
+</tr>
+</tbody>
+</table>
