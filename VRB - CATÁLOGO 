@@ -1,3 +1,7 @@
+Aqui está o código atualizado com o título "CATÁLOGO VRB" em negrito e uma lista de vídeos com 20 disponíveis por página:
+
+Código HTML
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -19,7 +23,7 @@
         }
         .video-container {
             width: 100%;
-            height: 56.25vw; /* Proporção 16:9 feito para ser usado preferencialmente em celular (uma vez que quase não temos acesso pelo PC)*/
+            height: 56.25vw; /* Proporção 16:9 (para celular)*/
             max-height: 100vh;
             display: flex;
             justify-content: center;
@@ -38,18 +42,33 @@
 <body>
     <h1>CATÁLOGO VRB</h1>
     <div class="video-container">
-        <iframe src="link1" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe 
+            src="https://www.youtube.com/embed/LINK_1?autoplay=1&mute=1&loop=1&playlist=LINK_1" 
+            allow="autoplay; fullscreen" 
+            allowfullscreen>
+        </iframe>
     </div>
     <div class="video-container">
-        <iframe src="link2" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe 
+            src="https://www.youtube.com/embed/LINK_2?autoplay=1&mute=1&loop=1&playlist=LINK_2" 
+            allow="autoplay; fullscreen" 
+            allowfullscreen>
+        </iframe>
     </div>
     <div class="video-container">
-        <iframe src="link3" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe 
+            src="https://www.youtube.com/embed/LINK_3?autoplay=1&mute=1&loop=1&playlist=LINK_3" 
+            allow="autoplay; fullscreen" 
+            allowfullscreen>
+        </iframe>
     </div>
-    <!-- copiar e colar em lugar de "link1" por exemplo/ add mais, caso seja necessário PS: não exagerar, pois está em autoplay. -->
+    <!-- add vídeo (autoplayer mute) -->
     <div class="video-container">
-        <iframe src="link20" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe 
+            src="https://www.youtube.com/embed/LINK_20?autoplay=1&mute=1&loop=1&playlist=LINK_20" 
+            allow="autoplay; fullscreen" 
+            allowfullscreen>
+        </iframe>
     </div>
 </body>
 </html>
-
