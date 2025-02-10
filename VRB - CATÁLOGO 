@@ -19,7 +19,7 @@
         }
         .video-container {
             width: 100%;
-            height: 56.25vw; /* Proporção 16:9 */
+            height: 56.25vw; /* Proporção 16:9 feito para ser usado preferencialmente em celular (uma vez que quase não temos acesso pelo PC)*/
             max-height: 100vh;
             display: flex;
             justify-content: center;
