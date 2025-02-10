@@ -1,0 +1,14 @@
+/*
+    Lembrando, Jhonny, que não se deve pegar ajuda do chat para fazer códigos, apenas tarefas mecânicas. Na hora de me mandar a base, verifique
+Pois a NS usa um formato de HTML limitado devido as regras da plataforma.
+Por exemplo, se tiver 20 links, suba para o GPT com o código abaixo de exemplo e peça-o para fazer os 20 de acordo, mas não o deixe formatar páginas.
+*/
+<h1>CAT&Aacute;LOGO VRB</h1>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Oy4A7t0GQMU?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=Oy4A7t0GQMU" allowfullscreen="">
+        </iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/I_sa9sHCG8Y?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=I_sa9sHCG8Y" allowfullscreen="">
+        </iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/JC1dsrZ44wM?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=JC1dsrZ44wM" allowfullscreen="">
+        </iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/WyX1Owf2Ta4?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=WyX1Owf2Ta4" allowfullscreen="">
+        </iframe></div>
