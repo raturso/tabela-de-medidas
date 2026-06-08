@@ -1,15 +1,12 @@
-<h1>TABELA DE MEDIDAS - VESTIDO</h1>
-<h2>Vestido</h2>
-<table style="border-collapse: collapse;" border="1" width="600">
-<thead>
+<h1>TABELA DE MEDIDAS VESTIDO</h1>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <th style="border: 2px solid black; padding: 10px;">TAMANHOS</th>
 <th style="border: 2px solid black; padding: 10px;">BUSTO</th>
 <th style="border: 2px solid black; padding: 10px;">CINTURA</th>
 <th style="border: 2px solid black; padding: 10px;">QUADRIL</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="border: 2px solid black; padding: 10px;">PP</td>
 <td style="border: 2px solid black; padding: 10px;">84-88 cm</td>
