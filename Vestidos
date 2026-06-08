@@ -35,10 +35,16 @@
 <td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">GG</td>
+<td style="border: 2px solid black; padding: 10px;">GG ou G1</td>
 <td style="border: 2px solid black; padding: 10px;">101-105 cm</td>
 <td style="border: 2px solid black; padding: 10px;">82-86 cm</td>
 <td style="border: 2px solid black; padding: 10px;">110-114 cm</td>
+</tr>
+<tr>
+<td style="border: 2px solid black; padding: 10px;">EXG ou G2</td>
+<td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
+<td style="border: 2px solid black; padding: 10px;">87-91 cm</td>
+<td style="border: 2px solid black; padding: 10px;">115-119 cm</td>
 </tr>
 </tbody>
 </table>
