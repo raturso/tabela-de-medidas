@@ -1,11 +1,11 @@
-<h1>TABELA DE MEDIDAS BLUSA</h1>
-<table style="border-collapse: collapse;" border="1" width="600">
+<h1>TABELA DE MEDIDAS - BLUSA</h1>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">TAMANHOS</td>
-<td style="border: 2px solid black; padding: 10px;">BUSTO</td>
-<td style="border: 2px solid black; padding: 10px;">CINTURA</td>
-<td style="border: 2px solid black; padding: 10px;">QUADRIL</td>
+<th style="border: 2px solid black; padding: 10px;">TAMANHOS</th>
+<th style="border: 2px solid black; padding: 10px;">BUSTO</th>
+<th style="border: 2px solid black; padding: 10px;">CINTURA</th>
+<th style="border: 2px solid black; padding: 10px;">QUADRIL</th>
 </tr>
 <tr>
 <td style="border: 2px solid black; padding: 10px;">P</td>
@@ -26,29 +26,28 @@
 <td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">GG</td>
+<td style="border: 2px solid black; padding: 10px;">GG ou G1</td>
 <td style="border: 2px solid black; padding: 10px;">101-105 cm</td>
 <td style="border: 2px solid black; padding: 10px;">82-86 cm</td>
 <td style="border: 2px solid black; padding: 10px;">110-114 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">EXG</td>
+<td style="border: 2px solid black; padding: 10px;">EXG ou G2</td>
 <td style="border: 2px solid black; padding: 10px;">106-109 cm</td>
 <td style="border: 2px solid black; padding: 10px;">86-90 cm</td>
 <td style="border: 2px solid black; padding: 10px;">114-118 cm</td>
 </tr>
 </tbody>
 </table>
-<h1>TABELA DE MEDIDAS SAIA</h1>
-<table style="border-collapse: collapse;" border="1" width="600">
-<thead>
+
+<h1>TABELA DE MEDIDAS - SAIA</h1>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <th style="border: 2px solid black; padding: 10px;">TAMANHOS</th>
 <th style="border: 2px solid black; padding: 10px;">CINTURA</th>
 <th style="border: 2px solid black; padding: 10px;">QUADRIL</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="border: 2px solid black; padding: 10px;">P</td>
 <td style="border: 2px solid black; padding: 10px;">62-66 cm</td>
@@ -65,12 +64,12 @@
 <td style="border: 2px solid black; padding: 10px;">98-102 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">GG</td>
+<td style="border: 2px solid black; padding: 10px;">GG ou G1</td>
 <td style="border: 2px solid black; padding: 10px;">74-78 cm</td>
 <td style="border: 2px solid black; padding: 10px;">102-106 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">EXG</td>
+<td style="border: 2px solid black; padding: 10px;">EXG ou G2</td>
 <td style="border: 2px solid black; padding: 10px;">78-82 cm</td>
 <td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
 </tr>
