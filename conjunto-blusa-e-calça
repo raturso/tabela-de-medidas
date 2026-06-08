@@ -1,4 +1,4 @@
-<h1>TABELA DE MEDIDAS BLUSA</h1>
+<h1>TABELA DE MEDIDAS - BLUSA</h1>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -32,15 +32,15 @@
 <td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">GG</td>
+<td style="border: 2px solid black; padding: 10px;">GG ou G1</td>
 <td style="border: 2px solid black; padding: 10px;">101-105 cm</td>
 <td style="border: 2px solid black; padding: 10px;">82-86 cm</td>
 <td style="border: 2px solid black; padding: 10px;">110-114 cm</td>
 </tr>
 </tbody>
 </table>
-<h1>TABELA DE MEDIDAS CAL&Ccedil;A</h1>
-<p>&nbsp;</p>
+
+<h1>TABELA DE MEDIDAS - CALÇA</h1>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -74,13 +74,13 @@
 <td style="border: 2px solid black; padding: 10px;">56-60 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">GG</td>
+<td style="border: 2px solid black; padding: 10px;">GG ou G1</td>
 <td style="border: 2px solid black; padding: 10px;">78-82 cm</td>
 <td style="border: 2px solid black; padding: 10px;">106-110 cm</td>
 <td style="border: 2px solid black; padding: 10px;">60-64 cm</td>
 </tr>
 <tr>
-<td style="border: 2px solid black; padding: 10px;">EXG</td>
+<td style="border: 2px solid black; padding: 10px;">EXG ou G2</td>
 <td style="border: 2px solid black; padding: 10px;">82-86 cm</td>
 <td style="border: 2px solid black; padding: 10px;">110-114 cm</td>
 <td style="border: 2px solid black; padding: 10px;">64-68 cm</td>
